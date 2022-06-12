@@ -13,7 +13,7 @@ As an example for 2-opt, consider sequence of [0,1,2,3,4]. Let i = 1 and k = 3, 
 **EX4:** Implement another optimization method of your choice (e.g. simulated annealing, genetic algorithm, ant colony optimization, hill climbing etc.) on provided cites (again, all, except 1000). As usual - report resulting path, its length, and execution time. Comment on comparison with previous methods.
 
 
-*Exercise Credits
+**Exercise Credits**
 Course: Algorithmics
 Institute of Computer Science
-University of Tartu*
+University of Tartu
