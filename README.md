@@ -14,6 +14,6 @@ As an example for 2-opt, consider sequence of [0,1,2,3,4]. Let i = 1 and k = 3, 
 
 
 **Exercise Credits**
-Course: Algorithmics
+*Algorithmics Course
 Institute of Computer Science
-University of Tartu
+University of Tartu*
